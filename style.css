@@ -1251,6 +1251,15 @@ textarea.form-item{height:71px; resize:none; width:490px;}
 	padding: 10px 0 20px 0;
 }
 
+.form-thanks {
+  padding: 15px;
+  margin-bottom: 20px;
+  border: 1px solid transparent;
+  border-radius: 4px;
+  color: #3c763d;
+  background-color: #dff0d8;
+  border-color: #d6e9c6;
+}
 
 
 
