@@ -260,11 +260,11 @@
 
                                 <p class="contact-info-content">Vous avez un projet ? Ou une simple question ? Laissez moi un message, je serais ravi d'en parler avec vous lors d'un échange téléphonique ou autour d'un café !</p>
 
-								<form action="" method="post" id="contact_form">
+								<form action="//formspree.io/hubert@moutot.me" method="post" id="contact_form">
                                     <div class="clearfix">
                                         <div class="form-col form-marg small fl-left">
                                             <label>Nom<span>*</span></label>
-                                            <div class="field"><input class="form-item req" id="contact_name" name="contact_name" type="text"></div>
+                                            <div class="field"><input class="form-item req" id="contact_name" name="name" type="text"></div>
                                         </div>
                                         <div class="form-col small fl-left">
                                             <label>E-mail<span>*</span></label>
@@ -276,6 +276,9 @@
                                         <div class="field"><textarea id="comment" name="comment" class="msg form-item req"></textarea></div>
                                     </div>
                                     <div class="form-btn">
+                                        <input type="text" name="_gotcha" style="display:none" />
+                                        <input type="hidden" name="_subject" value="Contact via moutot.me" />
+                                        <input type="hidden" name="_next" value="/?thanks" />
                                         <div class="field"><input class="btn" name="submit" id="submit" value="Envoyer" type="submit"></div>
                                     </div>
                                 </form>
