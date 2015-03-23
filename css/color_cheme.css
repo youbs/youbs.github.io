@@ -15,7 +15,7 @@
 .bg_6f4e37 .item-border span, .bg_6f4e37 #profile-brd > span > span{background:#7c5a42;}
 .bg_132c42 .item-border span, .bg_132c42 #profile-brd > span > span{background:#1c3a55;}
 
-/* Background Colors 
+/* Background Colors
 =========================================================*/
 .bg_f0f2f2{background:#f0f2f2;}
 .bg_f1d2c2{background:#f1d2c2;}
@@ -32,24 +32,24 @@
 .bg_6f4e37{background:#6f4e37;}
 .bg_132c42{background:#132c42;}
 
-/* Background Patterns 
+/* Background Patterns
 =========================================================*/
-body.bg-pattern1{background:url('../images/bg/bg1.jpg') repeat center center;}
-body.bg-pattern2{background:url('../images/bg/bg2.jpg') repeat center center;}
-body.bg-pattern3{background:url('../images/bg/bg3.jpg') repeat center center;}
-body.bg-pattern4{background:url('../images/bg/bg4.jpg') repeat center center;}
-body.bg-pattern5{background:url('../images/bg/bg5.jpg') repeat center center;}
-body.bg-pattern6{background:url('../images/bg/bg6.jpg') repeat center center;}
-body.bg-pattern7{background:url('../images/bg/bg7.jpg') repeat center center;}
-body.bg-pattern8{background:url('../images/bg/bg8.jpg') repeat center center;}
-body.bg-pattern9{background:url('../images/bg/bg9.jpg') repeat center center;}
-body.bg-pattern10{background:url('../images/bg/bg10.jpg') repeat center center;}
-body.bg-pattern11{background:url('../images/bg/bg11.jpg') repeat center center;}
-body.bg-pattern12{background:url('../images/bg/bg12.jpg') repeat center center;}
-body.bg-pattern13{background:url('../../images/bg/bg13.jpg') repeat center center;}
-body.bg-pattern14{background:url('../../images/bg/bg14.jpg') repeat center center;}
+body.bg-pattern1{background:url('/images/bg/bg1.jpg') repeat center center;}
+body.bg-pattern2{background:url('/images/bg/bg2.jpg') repeat center center;}
+body.bg-pattern3{background:url('/images/bg/bg3.jpg') repeat center center;}
+body.bg-pattern4{background:url('/images/bg/bg4.jpg') repeat center center;}
+body.bg-pattern5{background:url('/images/bg/bg5.jpg') repeat center center;}
+body.bg-pattern6{background:url('/images/bg/bg6.jpg') repeat center center;}
+body.bg-pattern7{background:url('/images/bg/bg7.jpg') repeat center center;}
+body.bg-pattern8{background:url('/images/bg/bg8.jpg') repeat center center;}
+body.bg-pattern9{background:url('/images/bg/bg9.jpg') repeat center center;}
+body.bg-pattern10{background:url('/images/bg/bg10.jpg') repeat center center;}
+body.bg-pattern11{background:url('/images/bg/bg11.jpg') repeat center center;}
+body.bg-pattern12{background:url('/images/bg/bg12.jpg') repeat center center;}
+body.bg-pattern13{background:url('/images/bg/bg13.jpg') repeat center center;}
+body.bg-pattern14{background:url('/images/bg/bg14.jpg') repeat center center;}
 
-/* Color Cheme 
+/* Color Cheme
 ================================================== */
 
 /* color_53b7f9 */
@@ -71,10 +71,10 @@ body.bg-pattern14{background:url('../../images/bg/bg14.jpg') repeat center cente
 .color_53b7f9 .post-share .share-fb:hover{background-position:-30px -30px;}
 .color_53b7f9 .post-share .share-p:hover{background-position:-59px -30px;}
 .color_53b7f9 .post-share .share-in:hover{background-position:-89px -30px;}
-.color_53b7f9 .wp-cont blockquote{background-image:url('../images/color_theme/quote/53b7f9.png');}
-.color_53b7f9 .wp-cont ul li{background-image:url('../images/color_theme/check/53b7f9.png');}
-.light_skin.color_53b7f9 .skill-language .skill-data{background-image:url(../images/color_theme/skills/53b7f9.png);}
-.dark_skin.color_53b7f9  .skill-language .skill-data{background-image:url(../images/color_theme/skills/53b7f9-dark.png);}
+.color_53b7f9 .wp-cont blockquote{background-image:url('/images/color_theme/quote/53b7f9.png');}
+.color_53b7f9 .wp-cont ul li{background-image:url('/images/color_theme/check/53b7f9.png');}
+.light_skin.color_53b7f9 .skill-language .skill-data{background-image:url(/images/color_theme/skills/53b7f9.png);}
+.dark_skin.color_53b7f9  .skill-language .skill-data{background-image:url(/images/color_theme/skills/53b7f9-dark.png);}
 
 
 /* color_ff3500 */
@@ -96,10 +96,10 @@ body.bg-pattern14{background:url('../../images/bg/bg14.jpg') repeat center cente
 .color_ff3500 .post-share .share-fb:hover{background-position:-30px -58px;}
 .color_ff3500 .post-share .share-p:hover{background-position:-59px -58px;}
 .color_ff3500 .post-share .share-in:hover{background-position:-89px -58px;}
-.color_ff3500 .wp-cont blockquote{background-image:url('../images/color_theme/quote/FF3500.png');}
-.color_ff3500 .wp-cont ul li{background-image:url('../images/color_theme/check/FF3500.png');}
-.light_skin.color_ff3500 .skill-language .skill-data{background-image:url(../images/color_theme/skills/ff3500.png);}
-.dark_skin.color_ff3500  .skill-language .skill-data{background-image:url(../images/color_theme/skills/ff3500-dark.png);}
+.color_ff3500 .wp-cont blockquote{background-image:url('/images/color_theme/quote/FF3500.png');}
+.color_ff3500 .wp-cont ul li{background-image:url('/images/color_theme/check/FF3500.png');}
+.light_skin.color_ff3500 .skill-language .skill-data{background-image:url(/images/color_theme/skills/ff3500.png);}
+.dark_skin.color_ff3500  .skill-language .skill-data{background-image:url(/images/color_theme/skills/ff3500-dark.png);}
 
 
 /* 35bb2e */
@@ -121,10 +121,10 @@ body.bg-pattern14{background:url('../../images/bg/bg14.jpg') repeat center cente
 .color_35bb2e .post-share .share-fb:hover{background-position:-30px -86px;}
 .color_35bb2e .post-share .share-p:hover{background-position:-59px -86px;}
 .color_35bb2e .post-share .share-in:hover{background-position:-89px -86px;}
-.color_35bb2e .wp-cont blockquote{background-image:url('../images/color_theme/quote/35BB2E.png');}
-.color_35bb2e .wp-cont ul li{background-image:url('../images/color_theme/check/35BB2E.png');}
-.light_skin.color_35bb2e .skill-language .skill-data{background-image:url(../images/color_theme/skills/35bb2e.png);}
-.dark_skin.color_35bb2e  .skill-language .skill-data{background-image:url(../images/color_theme/skills/35bb2e-dark.png);}
+.color_35bb2e .wp-cont blockquote{background-image:url('/images/color_theme/quote/35BB2E.png');}
+.color_35bb2e .wp-cont ul li{background-image:url('/images/color_theme/check/35BB2E.png');}
+.light_skin.color_35bb2e .skill-language .skill-data{background-image:url(/images/color_theme/skills/35bb2e.png);}
+.dark_skin.color_35bb2e  .skill-language .skill-data{background-image:url(/images/color_theme/skills/35bb2e-dark.png);}
 
 
 /* ff6800 */
@@ -146,10 +146,10 @@ body.bg-pattern14{background:url('../../images/bg/bg14.jpg') repeat center cente
 .color_ff6800 .post-share .share-fb:hover{background-position:-30px -114px;}
 .color_ff6800 .post-share .share-p:hover{background-position:-59px -114px;}
 .color_ff6800 .post-share .share-in:hover{background-position:-89px -114px;}
-.color_ff6800 .wp-cont blockquote{background-image:url('../images/color_theme/quote/FF6800.png');}
-.color_ff6800 .wp-cont ul li{background-image:url('../images/color_theme/check/FF6800.png');}
-.light_skin.color_ff6800 .skill-language .skill-data{background-image:url(../images/color_theme/skills/ff6800.png);}
-.dark_skin.color_ff6800  .skill-language .skill-data{background-image:url(../images/color_theme/skills/ff6800-dark.png);}
+.color_ff6800 .wp-cont blockquote{background-image:url('/images/color_theme/quote/FF6800.png');}
+.color_ff6800 .wp-cont ul li{background-image:url('/images/color_theme/check/FF6800.png');}
+.light_skin.color_ff6800 .skill-language .skill-data{background-image:url(/images/color_theme/skills/ff6800.png);}
+.dark_skin.color_ff6800  .skill-language .skill-data{background-image:url(/images/color_theme/skills/ff6800-dark.png);}
 
 
 /* 197bbf */
@@ -171,10 +171,10 @@ body.bg-pattern14{background:url('../../images/bg/bg14.jpg') repeat center cente
 .color_197bbf .post-share .share-fb:hover{background-position:-30px -142px;}
 .color_197bbf .post-share .share-p:hover{background-position:-59px -142px;}
 .color_197bbf .post-share .share-in:hover{background-position:-89px -142px;}
-.color_197bbf .wp-cont blockquote{background-image:url('../images/color_theme/quote/197BBF.png');}
-.color_197bbf .wp-cont ul li{background-image:url('../images/color_theme/check/197BBF.png');}
-.light_skin.color_197bbf .skill-language .skill-data{background-image:url(../images/color_theme/skills/197bbf.png);}
-.dark_skin.color_197bbf  .skill-language .skill-data{background-image:url(../images/color_theme/skills/197bbf-dark.png);}
+.color_197bbf .wp-cont blockquote{background-image:url('/images/color_theme/quote/197BBF.png');}
+.color_197bbf .wp-cont ul li{background-image:url('/images/color_theme/check/197BBF.png');}
+.light_skin.color_197bbf .skill-language .skill-data{background-image:url(/images/color_theme/skills/197bbf.png);}
+.dark_skin.color_197bbf  .skill-language .skill-data{background-image:url(/images/color_theme/skills/197bbf-dark.png);}
 
 
 /* c7df2e */
@@ -196,10 +196,10 @@ body.bg-pattern14{background:url('../../images/bg/bg14.jpg') repeat center cente
 .color_c7df2e .post-share .share-fb:hover{background-position:-30px -170px;}
 .color_c7df2e .post-share .share-p:hover{background-position:-59px -170px;}
 .color_c7df2e .post-share .share-in:hover{background-position:-89px -170px;}
-.color_c7df2e .wp-cont blockquote{background-image:url('../images/color_theme/quote/C7DF2E.png');}
-.color_c7df2e .wp-cont ul li{background-image:url('../images/color_theme/check/C7DF2E.png');}
-.light_skin.color_c7df2e .skill-language .skill-data{background-image:url(../images/color_theme/skills/c7df2e.png);}
-.dark_skin.color_c7df2e  .skill-language .skill-data{background-image:url(../images/color_theme/skills/c7df2e-dark.png);}
+.color_c7df2e .wp-cont blockquote{background-image:url('/images/color_theme/quote/C7DF2E.png');}
+.color_c7df2e .wp-cont ul li{background-image:url('/images/color_theme/check/C7DF2E.png');}
+.light_skin.color_c7df2e .skill-language .skill-data{background-image:url(/images/color_theme/skills/c7df2e.png);}
+.dark_skin.color_c7df2e  .skill-language .skill-data{background-image:url(/images/color_theme/skills/c7df2e-dark.png);}
 
 
 /* 704f36 */
@@ -221,10 +221,10 @@ body.bg-pattern14{background:url('../../images/bg/bg14.jpg') repeat center cente
 .color_704f36 .post-share .share-fb:hover{background-position:-30px -198px;}
 .color_704f36 .post-share .share-p:hover{background-position:-59px -198px;}
 .color_704f36 .post-share .share-in:hover{background-position:-89px -198px;}
-.color_704f36 .wp-cont blockquote{background-image:url('../images/color_theme/quote/704F36.png');}
-.color_704f36 .wp-cont ul li{background-image:url('../images/color_theme/check/704F36.png');}
-.light_skin.color_704f36 .skill-language .skill-data{background-image:url(../images/color_theme/skills/704f36.png);}
-.dark_skin.color_704f36  .skill-language .skill-data{background-image:url(../images/color_theme/skills/704f36-dark.png);}
+.color_704f36 .wp-cont blockquote{background-image:url('/images/color_theme/quote/704F36.png');}
+.color_704f36 .wp-cont ul li{background-image:url('/images/color_theme/check/704F36.png');}
+.light_skin.color_704f36 .skill-language .skill-data{background-image:url(/images/color_theme/skills/704f36.png);}
+.dark_skin.color_704f36  .skill-language .skill-data{background-image:url(/images/color_theme/skills/704f36-dark.png);}
 
 
 /* e35039 */
@@ -246,10 +246,10 @@ body.bg-pattern14{background:url('../../images/bg/bg14.jpg') repeat center cente
 .color_e35039 .post-share .share-fb:hover{background-position:-30px -226px;}
 .color_e35039 .post-share .share-p:hover{background-position:-59px -226px;}
 .color_e35039 .post-share .share-in:hover{background-position:-89px -226px;}
-.color_e35039 .wp-cont blockquote{background-image:url('../images/color_theme/quote/E35039.png');}
-.color_e35039 .wp-cont ul li{background-image:url('../images/color_theme/check/E35039.png');}
-.light_skin.color_e35039 .skill-language .skill-data{background-image:url(../images/color_theme/skills/e35039.png);}
-.dark_skin.color_e35039  .skill-language .skill-data{background-image:url(../images/color_theme/skills/e35039-dark.png);}
+.color_e35039 .wp-cont blockquote{background-image:url('/images/color_theme/quote/E35039.png');}
+.color_e35039 .wp-cont ul li{background-image:url('/images/color_theme/check/E35039.png');}
+.light_skin.color_e35039 .skill-language .skill-data{background-image:url(/images/color_theme/skills/e35039.png);}
+.dark_skin.color_e35039  .skill-language .skill-data{background-image:url(/images/color_theme/skills/e35039-dark.png);}
 
 
 /* df5085 */
@@ -271,10 +271,10 @@ body.bg-pattern14{background:url('../../images/bg/bg14.jpg') repeat center cente
 .color_df5085 .post-share .share-fb:hover{background-position:-30px -254px;}
 .color_df5085 .post-share .share-p:hover{background-position:-59px -254px;}
 .color_df5085 .post-share .share-in:hover{background-position:-89px -254px;}
-.color_df5085 .wp-cont blockquote{background-image:url('../images/color_theme/quote/DF5085.png');}
-.color_df5085 .wp-cont ul li{background-image:url('../images/color_theme/check/DF5085.png');}
-.light_skin.color_df5085 .skill-language .skill-data{background-image:url(../images/color_theme/skills/df5085.png);}
-.dark_skin.color_df5085  .skill-language .skill-data{background-image:url(../images/color_theme/skills/df5085-dark.png);}
+.color_df5085 .wp-cont blockquote{background-image:url('/images/color_theme/quote/DF5085.png');}
+.color_df5085 .wp-cont ul li{background-image:url('/images/color_theme/check/DF5085.png');}
+.light_skin.color_df5085 .skill-language .skill-data{background-image:url(/images/color_theme/skills/df5085.png);}
+.dark_skin.color_df5085  .skill-language .skill-data{background-image:url(/images/color_theme/skills/df5085-dark.png);}
 
 
 /* 03ae91 */
@@ -296,10 +296,10 @@ body.bg-pattern14{background:url('../../images/bg/bg14.jpg') repeat center cente
 .color_03ae91 .post-share .share-fb:hover{background-position:-30px -282px;}
 .color_03ae91 .post-share .share-p:hover{background-position:-59px -282px;}
 .color_03ae91 .post-share .share-in:hover{background-position:-89px -282px;}
-.color_03ae91 .wp-cont blockquote{background-image:url('../images/color_theme/quote/03AE91.png');}
-.color_03ae91 .wp-cont ul li{background-image:url('../images/color_theme/check/03AE91.png');}
-.light_skin.color_03ae91 .skill-language .skill-data{background-image:url(../images/color_theme/skills/03ae91.png);}
-.dark_skin.color_03ae91  .skill-language .skill-data{background-image:url(../images/color_theme/skills/03ae91-dark.png);}
+.color_03ae91 .wp-cont blockquote{background-image:url('/images/color_theme/quote/03AE91.png');}
+.color_03ae91 .wp-cont ul li{background-image:url('/images/color_theme/check/03AE91.png');}
+.light_skin.color_03ae91 .skill-language .skill-data{background-image:url(/images/color_theme/skills/03ae91.png);}
+.dark_skin.color_03ae91  .skill-language .skill-data{background-image:url(/images/color_theme/skills/03ae91-dark.png);}
 
 
 /* ea3302 */
@@ -321,10 +321,10 @@ body.bg-pattern14{background:url('../../images/bg/bg14.jpg') repeat center cente
 .color_ea3302 .post-share .share-fb:hover{background-position:-30px -310px;}
 .color_ea3302 .post-share .share-p:hover{background-position:-59px -310px;}
 .color_ea3302 .post-share .share-in:hover{background-position:-89px -310px;}
-.color_ea3302 .wp-cont blockquote{background-image:url('../images/color_theme/quote/EA3302.png');}
-.color_ea3302 .wp-cont ul li{background-image:url('../images/color_theme/check/EA3302.png');}
-.light_skin.color_ea3302 .skill-language .skill-data{background-image:url(../images/color_theme/skills/ea3302.png);}
-.dark_skin.color_ea3302  .skill-language .skill-data{background-image:url(../images/color_theme/skills/ea3302-dark.png);}
+.color_ea3302 .wp-cont blockquote{background-image:url('/images/color_theme/quote/EA3302.png');}
+.color_ea3302 .wp-cont ul li{background-image:url('/images/color_theme/check/EA3302.png');}
+.light_skin.color_ea3302 .skill-language .skill-data{background-image:url(/images/color_theme/skills/ea3302.png);}
+.dark_skin.color_ea3302  .skill-language .skill-data{background-image:url(/images/color_theme/skills/ea3302-dark.png);}
 
 
 /* 27ccc0 */
@@ -346,10 +346,10 @@ body.bg-pattern14{background:url('../../images/bg/bg14.jpg') repeat center cente
 .color_27ccc0 .post-share .share-fb:hover{background-position:-30px -338px;}
 .color_27ccc0 .post-share .share-p:hover{background-position:-59px -338px;}
 .color_27ccc0 .post-share .share-in:hover{background-position:-89px -338px;}
-.color_27ccc0 .wp-cont blockquote{background-image:url('../images/color_theme/quote/27CCC0.png');}
-.color_27ccc0 .wp-cont ul li{background-image:url('../images/color_theme/check/27CCC0.png');}
-.light_skin.color_27ccc0 .skill-language .skill-data{background-image:url(../images/color_theme/skills/27ccc0.png);}
-.dark_skin.color_27ccc0  .skill-language .skill-data{background-image:url(../images/color_theme/skills/27ccc0-dark.png);}
+.color_27ccc0 .wp-cont blockquote{background-image:url('/images/color_theme/quote/27CCC0.png');}
+.color_27ccc0 .wp-cont ul li{background-image:url('/images/color_theme/check/27CCC0.png');}
+.light_skin.color_27ccc0 .skill-language .skill-data{background-image:url(/images/color_theme/skills/27ccc0.png);}
+.dark_skin.color_27ccc0  .skill-language .skill-data{background-image:url(/images/color_theme/skills/27ccc0-dark.png);}
 
 
 /* 976ad8 */
@@ -371,10 +371,10 @@ body.bg-pattern14{background:url('../../images/bg/bg14.jpg') repeat center cente
 .color_976ad8  .post-share .share-fb:hover{background-position:-30px -366px;}
 .color_976ad8  .post-share .share-p:hover{background-position:-59px -366px;}
 .color_976ad8  .post-share .share-in:hover{background-position:-89px -366px;}
-.color_976ad8 .wp-cont blockquote{background-image:url('../images/color_theme/quote/976AD8.png');}
-.color_976ad8 .wp-cont ul li{background-image:url('../images/color_theme/check/976AD8.png');}
-.light_skin.color_976ad8 .skill-language .skill-data{background-image:url(../images/color_theme/skills/976ad8.png);}
-.dark_skin.color_976ad8  .skill-language .skill-data{background-image:url(../images/color_theme/skills/976ad8-dark.png);}
+.color_976ad8 .wp-cont blockquote{background-image:url('/images/color_theme/quote/976AD8.png');}
+.color_976ad8 .wp-cont ul li{background-image:url('/images/color_theme/check/976AD8.png');}
+.light_skin.color_976ad8 .skill-language .skill-data{background-image:url(/images/color_theme/skills/976ad8.png);}
+.dark_skin.color_976ad8  .skill-language .skill-data{background-image:url(/images/color_theme/skills/976ad8-dark.png);}
 
 
 /* f9c100 */
@@ -396,9 +396,9 @@ body.bg-pattern14{background:url('../../images/bg/bg14.jpg') repeat center cente
 .color_f9c100  .post-share .share-fb:hover{background-position:-30px -394px;}
 .color_f9c100  .post-share .share-p:hover{background-position:-59px -394px;}
 .color_f9c100  .post-share .share-in:hover{background-position:-89px -394px;}
-.color_f9c100 .wp-cont blockquote{background-image:url('../images/color_theme/quote/F9C100.png');}
-.color_f9c100 .wp-cont ul li{background-image:url('../images/color_theme/check/F9C100.png');}
-.light_skin.color_f9c100 .skill-language .skill-data{background-image:url(../images/color_theme/skills/f9c100.png);}
-.dark_skin.color_f9c100  .skill-language .skill-data{background-image:url(../images/color_theme/skills/f9c100-dark.png);}
+.color_f9c100 .wp-cont blockquote{background-image:url('/images/color_theme/quote/F9C100.png');}
+.color_f9c100 .wp-cont ul li{background-image:url('/images/color_theme/check/F9C100.png');}
+.light_skin.color_f9c100 .skill-language .skill-data{background-image:url(/images/color_theme/skills/f9c100.png);}
+.dark_skin.color_f9c100  .skill-language .skill-data{background-image:url(/images/color_theme/skills/f9c100-dark.png);}
 
 

@@ -225,7 +225,7 @@ a{cursor:pointer;}
 
 
 
-#up{background:url(images/up.png) no-repeat; width:40px; height:40px; position:absolute; bottom:0px; right:-50px;}
+#up{background:url(/images/up.png) no-repeat; width:40px; height:40px; position:absolute; bottom:0px; right:-50px;}
 
 #up:hover{background-position:0px -42px;}
 
@@ -233,19 +233,19 @@ a{cursor:pointer;}
 
 /* icons */
 
-.icon-user{background-image:url(images/user.png);}
+.icon-user{background-image:url(/images/user.png);}
 
-.icon-resume{background:url(images/vcard.png);}
+.icon-resume{background:url(/images/vcard.png);}
 
-.icon-portfolio{background:url(images/picture.png);}
+.icon-portfolio{background:url(/images/picture.png);}
 
-.icon-contact{background:url(images/mail.png);}
+.icon-contact{background:url(/images/mail.png);}
 
-.icon-blog{background:url(images/feather.png);}
+.icon-blog{background:url(/images/feather.png);}
 
-.icon-cloud{background:url(images/icon-cloud.png) no-repeat; width:12px; height:9px; margin-right:5px;}
+.icon-cloud{background:url(/images/icon-cloud.png) no-repeat; width:12px; height:9px; margin-right:5px;}
 
-.icon-print{background:url(images/icon-print.png) no-repeat; width:10px; height:10px; margin-right:8px;}
+.icon-print{background:url(/images/icon-print.png) no-repeat; width:10px; height:10px; margin-right:8px;}
 
 
 
@@ -270,7 +270,7 @@ a{cursor:pointer;}
     text-indent: 100%;
     white-space: nowrap;
     overflow:hidden;
-    background-image:url(images/color_theme/icons-social.png);
+    background-image:url(/images/color_theme/icons-social.png);
     background-repeat:no-repeat;}
 
 .head-social li.tw a:hover{background-position:0px -72px; border-color:#54aee1;}
@@ -335,7 +335,7 @@ a{cursor:pointer;}
 
 .item-title .arrow{
 
-	background-image: url(images/color_theme/arrows.png);
+	background-image: url(/images/color_theme/arrows.png);
 
 	background-repeat: no-repeat;
 
@@ -356,10 +356,10 @@ a{cursor:pointer;}
 .item-cont{position:relative; padding:22px 3.95% 64px; z-index:2;}
 
 .item-border{position:absolute; left:-43px; top:0px; height:100%; width:43px; z-index:1; overflow:hidden;}
-.item-border > span{background:url("images/item-border-bg.png") repeat-y; top:71px; position:absolute; display:block; height:100%; width:100%; }
+.item-border > span{background:url("/images/item-border-bg.png") repeat-y; top:71px; position:absolute; display:block; height:100%; width:100%; }
 
 #profile-brd  > span{background:none; overflow:hidden;}
-#profile-brd  > span > span{background:url("images/item-border-bg.png") repeat-y; bottom:117px; position:absolute; display:block; height:100%; width:100%;}
+#profile-brd  > span > span{background:url("/images/item-border-bg.png") repeat-y; bottom:117px; position:absolute; display:block; height:100%; width:100%;}
 
 
 
@@ -433,7 +433,7 @@ a{cursor:pointer;}
 
 .icon-plus{
 
-	background:url("images/icon-plus.png") no-repeat scroll 8px 7px;
+	background:url("/images/icon-plus.png") no-repeat scroll 8px 7px;
 
 	width:27px;
 
@@ -465,7 +465,7 @@ a{cursor:pointer;}
 
 .skill-box h3{
 
-	background-image:url(images/color_theme/icons-plus.png);
+	background-image:url(/images/color_theme/icons-plus.png);
 
 	background-repeat:no-repeat;
 
@@ -558,7 +558,7 @@ a{cursor:pointer;}
 
 .fancybox-fs{
 
-    background:url(images/close.png) no-repeat 0 0;
+    background:url(/images/close.png) no-repeat 0 0;
 
     cursor: pointer;
 
@@ -588,7 +588,7 @@ a{cursor:pointer;}
 
 #contact .map{margin-bottom:29px;}
 
-#contact .btn{margin-left:0px; background-image:url(images/icon-mail.png); background-repeat:no-repeat; background-position: 13px 10px;  padding-left:31px; padding-right:12px;}
+#contact .btn{margin-left:0px; background-image:url(/images/icon-mail.png); background-repeat:no-repeat; background-position: 13px 10px;  padding-left:31px; padding-right:12px;}
 
 #contact .form-btn{padding:2px 0px; margin-top:20px;}
 
@@ -639,7 +639,7 @@ textarea.form-item{height:71px; resize:none; width:490px;}
 .contact-info{padding-top:5px;}
 .contact-info li{margin-bottom:7px;}
 .contact-info .icon{
-	background-image:url(images/color_theme/icons-contact.png);
+	background-image:url(/images/color_theme/icons-contact.png);
 	background-repeat:no-repeat;
 	display:block;
 	float:left;
@@ -699,7 +699,7 @@ textarea.form-item{height:71px; resize:none; width:490px;}
 
 .blog-link .icon{
 
-	background:url(images/feather.png) center center no-repeat #434b51;
+	background:url(/images/feather.png) center center no-repeat #434b51;
 
 	width:43px;
 
@@ -772,7 +772,7 @@ textarea.form-item{height:71px; resize:none; width:490px;}
 
     font:400 12px/23px 'Open Sans', sans-serif;
 
-    background:url(images/color_theme/icon-comments.png) no-repeat 9px 7px;
+    background:url(/images/color_theme/icon-comments.png) no-repeat 9px 7px;
 
     text-decoration: none;
 
@@ -796,9 +796,9 @@ textarea.form-item{height:71px; resize:none; width:490px;}
 
 .slidesjs-previous{position:absolute; top:43%; z-index:10; width:36px; height:36px; text-indent:-9999px;}
 
-.slidesjs-next{right:11px; background:url(images/slider-next.png) no-repeat;}
+.slidesjs-next{right:11px; background:url(/images/slider-next.png) no-repeat;}
 
-.slidesjs-previous{left:11px; background:url(images/slider-prev.png) no-repeat;}
+.slidesjs-previous{left:11px; background:url(/images/slider-prev.png) no-repeat;}
 
 
 
@@ -885,7 +885,7 @@ textarea.form-item{height:71px; resize:none; width:490px;}
 	border-color: #d0dde5;
     	border-style: solid;
 	border-width:2px;
-	background-image:url(images/color_theme/icons-share.png);
+	background-image:url(/images/color_theme/icons-share.png);
 	background-repeat:no-repeat;
 	vertical-align:middle;
 	-webkit-border-radius: 2px;
@@ -908,7 +908,7 @@ textarea.form-item{height:71px; resize:none; width:490px;}
 
 .post-comments .form h3{text-transform:none;}
 
-.post-comments .btn{margin-left:0px; background-image:url(images/icon-comment.png); background-repeat:no-repeat; background-position:12px center; padding-left:35px;}
+.post-comments .btn{margin-left:0px; background-image:url(/images/icon-comment.png); background-repeat:no-repeat; background-position:12px center; padding-left:35px;}
 
 .post-comments .form{border-top:1px solid #e8ebed; padding-top:30px; margin-top:30px;}
 
@@ -937,7 +937,7 @@ textarea.form-item{height:71px; resize:none; width:490px;}
 
 .btn-reply, .comment-reply-link, #cancel-comment-reply-link{
 
-	background:url(images/icon-reply.png) no-repeat 5px center #a2a9af;
+	background:url(/images/icon-reply.png) no-repeat 5px center #a2a9af;
 
 	font:600 10px/10px 'Open Sans', sans-serif;
 
@@ -1118,7 +1118,7 @@ textarea.form-item{height:71px; resize:none; width:490px;}
 
 .mejs-controls div.mejs-time-rail{padding-top:7px;}
 
-.mejs-controls .mejs-button button{background: url("images/player/controls.png") no-repeat 0px 0px;}
+.mejs-controls .mejs-button button{background: url("/images/player/controls.png") no-repeat 0px 0px;}
 
 .mejs-controls .mejs-button button:focus{outline:none;}
 

@@ -1,14 +1,14 @@
 /* Settings Panel
 =========================================================*/
 #settings {background: none repeat scroll 0 0 #FFFFFF; box-shadow: 2px 2px 3px rgba(0, 0, 0, 0.1); left: -210px; padding: 5px 15px 25px 15px; position: fixed;top: 212px;width: 180px; z-index: 100;}
-#settings-icon {background: url("../images/settings.png") no-repeat scroll 0 0; cursor: pointer; height: 41px; position: absolute; right: -38px; top: -1px; width: 38px;}
+#settings-icon {background: url("/images/settings.png") no-repeat scroll 0 0; cursor: pointer; height: 41px; position: absolute; right: -38px; top: -1px; width: 38px;}
 #settings.active #settings-icon {background-position: 0 -43px;}
 #settings h3{font-size:13px; line-height:13px; font-family:'Patua One',cursive; color:#000000; padding-top:20px; margin-bottom:12px; text-transform:uppercase;}
 #bg-colors li, #color-cheme li{float:left; margin:2px;}
 #bg-colors a, #color-cheme a{display:block; border-radius:2px; width:17px; height:17px; padding:2px;}
 #bg-colors a.current, #color-cheme a.current{background-color:#535b60 !important;}
 #bg-colors a span, #color-cheme  a span{border:1px solid #fff; width:15px; height:15px; display:inline-block;}
-#bg-colors{margin-bottom:3px;} 
+#bg-colors{margin-bottom:3px;}
 
 #settings .color_53b7f9, #settings .color_53b7f9 span{background:#53b7f9;}
 #settings .color_ff3500, #settings .color_ff3500 span{background:#ff3500;}
@@ -43,17 +43,17 @@
 #bg-patterns li a{display:block; border:1px solid #fff; width:20px; height:20px;}
 #bg-patterns li.current{border-color:#535b60; background-color:#535b60;}
 
-#settings .bg-pattern1{background:url('../images/bg/bg1-small.png') repeat center center;}
-#settings .bg-pattern2{background:url('../images/bg/bg2-small.png') repeat center center;}
-#settings .bg-pattern3{background:url('../images/bg/bg3-small.png') repeat center center;}
-#settings .bg-pattern4{background:url('../images/bg/bg4-small.png') repeat center center;}
-#settings .bg-pattern5{background:url('../images/bg/bg5-small.png') repeat center center;}
-#settings .bg-pattern6{background:url('../images/bg/bg6-small.png') repeat center center;}
-#settings .bg-pattern7{background:url('../images/bg/bg7-small.png') repeat center center;}
-#settings .bg-pattern8{background:url('../images/bg/bg8-small.png') repeat center center;}
-#settings .bg-pattern9{background:url('../images/bg/bg9-small.png') repeat center center;}
-#settings .bg-pattern10{background:url('../images/bg/bg10-small.png') repeat center center;}
-#settings .bg-pattern11{background:url('../images/bg/bg11-small.png') repeat center center;}
-#settings .bg-pattern12{background:url('../images/bg/bg12-small.png') repeat center center;}
-#settings .bg-pattern13{background:url('../../images/bg/bg13-small.png') repeat center center;}
-#settings .bg-pattern14{background:url('../../images/bg/bg14-small.png') repeat center center;}
+#settings .bg-pattern1{background:url('/images/bg/bg1-small.png') repeat center center;}
+#settings .bg-pattern2{background:url('/images/bg/bg2-small.png') repeat center center;}
+#settings .bg-pattern3{background:url('/images/bg/bg3-small.png') repeat center center;}
+#settings .bg-pattern4{background:url('/images/bg/bg4-small.png') repeat center center;}
+#settings .bg-pattern5{background:url('/images/bg/bg5-small.png') repeat center center;}
+#settings .bg-pattern6{background:url('/images/bg/bg6-small.png') repeat center center;}
+#settings .bg-pattern7{background:url('/images/bg/bg7-small.png') repeat center center;}
+#settings .bg-pattern8{background:url('/images/bg/bg8-small.png') repeat center center;}
+#settings .bg-pattern9{background:url('/images/bg/bg9-small.png') repeat center center;}
+#settings .bg-pattern10{background:url('/images/bg/bg10-small.png') repeat center center;}
+#settings .bg-pattern11{background:url('/images/bg/bg11-small.png') repeat center center;}
+#settings .bg-pattern12{background:url('/images/bg/bg12-small.png') repeat center center;}
+#settings .bg-pattern13{background:url('/images/bg/bg13-small.png') repeat center center;}
+#settings .bg-pattern14{background:url('/images/bg/bg14-small.png') repeat center center;}
