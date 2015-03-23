@@ -225,7 +225,7 @@ a{cursor:pointer;}
 
 
 
-#up{background:url(/images/up.png) no-repeat; width:40px; height:40px; position:absolute; bottom:0px; right:-50px;}
+#up{background:url(/images/up.png) no-repeat; width:40px; height:40px; position:absolute; bottom:0px; right:-50px;z-index: 10;}
 
 #up:hover{background-position:0px -42px;}
 
@@ -359,7 +359,7 @@ a{cursor:pointer;}
 .item-border > span{background:url("/images/item-border-bg.png") repeat-y; top:71px; position:absolute; display:block; height:100%; width:100%; }
 
 #profile-brd  > span{background:none; overflow:hidden;}
-#profile-brd  > span > span{background:url("/images/item-border-bg.png") repeat-y; bottom:117px; position:absolute; display:block; height:100%; width:100%;}
+#profile-brd  > span > span{background:url("/images/item-border-bg.png") repeat-y; position:absolute; display:block; height:100%; width:100%;}
 
 
 
